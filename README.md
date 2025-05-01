@@ -1,5 +1,5 @@
 # Hi there, I'm [Vivian Nyamari]! 👋
-
+![Banner Image]([your_banner_image_url_here](https://github.com/vivian-nyamari/portfolio/blob/main/assets/banner.jpg?raw=true))
 
 ## About Me 🚀
 
@@ -9,7 +9,7 @@ I'm a passionate Data Scientist, Backend Developer & clinician with experience i
 - 🌱 Currently learning: **[Advanced backend engineering and AI-driven applications]**
 - 🔭 Working on: **[A health access platform for underserved rural communities]**
 - 🌍 Languages: **[Python, R, SQL, JavaScript, English, Kiswahili]**
-- 📫 How to reach me: **[viviannyamoraa@gmail.com**
+- 📫 How to reach me: **[viviannyamoraa@gmail.com]**
 - ⚡ Fun fact: **[both a clinician and a statistician—a rare combo that lets her diagnose patients and analyze healthcare data to improve community health outcomes. ]**
 
 ## My Skills 🧠
