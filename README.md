@@ -1,5 +1,5 @@
 # Hi there, I'm [Vivian Nyamari]! 👋
-![Banner Image]([your_banner_image_url_here](https://github.com/vivian-nyamari/portfolio/blob/main/assets/banner.jpg?raw=true))
+![Banner Image]([https://github.com/vivian-nyamari/portfolio/blob/main/assets/banner.jpg?raw=true])
 
 ## About Me 🚀
 
