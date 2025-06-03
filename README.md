@@ -1,4 +1,4 @@
-# Hi there, I'm [Vivian Nyamari]! 👋
+# Vivian Nyamari! 👋
 ![Banner Image]([https://github.com/vivian-nyamari/portfolio/blob/main/assets/banner.jpg?raw=true])
 
 ## About Me 🚀
