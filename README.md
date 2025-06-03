@@ -16,7 +16,7 @@ I'm a passionate Data Scientist, Backend Developer & clinician with experience i
 
 ![SQL](https://img.shields.io/badge/-SQL-E34F26?style=flat-square&logo=sql5&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-1572B6?style=flat-square&logo=python3&logoColor=white)
-
+![R](https://img.shields.io/badge/-R-E34F26?style=flat-square&logo=R5&logoColor=white)
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
